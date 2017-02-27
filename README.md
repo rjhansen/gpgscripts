@@ -6,4 +6,4 @@ of different operating systems.
 To me.  YMMV.
 
 ## What's the licensing?
-ISC.  Share and enjoy!
+MIT-like.  Share and enjoy!
